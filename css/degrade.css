@@ -7,3 +7,14 @@
     /* dégradé qui démarre avec la première couleur à droite et la dernière à gauche ( violet - vert)*/
     /* lien vers un générateur de dégradés : cssgradient.io dans le slack */
 }
+
+a{
+    background-color: green;
+    color: white;
+    font-size: 30px;
+    padding: 20px;
+    border-radius: 30px;
+    position: fixed;
+    bottom: 20px;
+    text-decoration: none;
+}
